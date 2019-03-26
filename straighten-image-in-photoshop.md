@@ -5,3 +5,5 @@
 3. Click the beginning of the line you’ve chosen, then drag the lince across until you’re happy with the alignment.
 4. Choose `Window → Options`.
 5. Click the rectangular box marked **Straigten Layer** along the top.
+
+**Note**: The bounding box of the image is bound (no pun intended) to exceed the dimensions of the image. How do we deal with that?
