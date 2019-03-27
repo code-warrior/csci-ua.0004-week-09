@@ -5,3 +5,6 @@
 4. Click **Selection...** along the top, to the right of **Path**
 5. Leave **Feather Radius** at `0`, check off **Anti-aliased** and **New Selection**
 6. Duplicate the layer by typing `Command + J`
+
+**Note**: Enable “Show Transform Controls” on the top so you can see the bounding boxes of focused assets.
+
