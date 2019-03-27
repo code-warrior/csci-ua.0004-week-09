@@ -4,7 +4,6 @@
 3. Repeat step 2 until you get to the first marker you made, forming a bounding area around the section of the image you want to crop.
 4. Click **Selection...** along the top, to the right of **Path**
 5. Leave **Feather Radius** at `0`, check off **Anti-aliased** and **New Selection**
-6. Duplicate the layer by typing `Command + J`
+6. Type `Command + J`. This will create a new layer containing the cropped section.
 
 **Note**: Enable “Show Transform Controls” on the top so you can see the bounding boxes of focused assets.
-
